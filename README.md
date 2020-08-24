@@ -6,11 +6,11 @@
 
 ### How to use the script
 >1. Edit ADQL code in `ADQL_J-PLUS` file.
-2. To run the script :
-    ```shell
-    ./do_query_stilts.sh your_cefca_archive_username output_csv_file_name
-    ```
-3. To input your cefca_archive password
+>2. To run the script :
+>    ```shell
+>    ./do_query_stilts.sh your_cefca_archive_username output_csv_file_name
+>    ```
+>3. To input your cefca_archive password
 
 ***
 
