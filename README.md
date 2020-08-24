@@ -2,7 +2,7 @@
 ---
 
 ### Notice:
->This script is implemented through [stilts](http://www.star.bris.ac.uk/~mbt/stilts/), and >sudo apt intsall stlits` can be used to install stiltSs on Ubuntu/Debain/etc.
+>This script is implemented through [stilts](http://www.star.bris.ac.uk/~mbt/stilts/), and `sudo apt intsall stlits` can be used to install stiltSs on Ubuntu/Debain/etc.
 
 ### How to use the script
 >1. Edit ADQL code in `ADQL_J-PLUS` file.
